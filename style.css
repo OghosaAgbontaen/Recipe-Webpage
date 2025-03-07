@@ -1,0 +1,146 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:  hsl(30, 54%, 90%);
+    font-family:"Outfit", sans-serif;
+}
+.container{
+    width: 50%;
+    background-color:  hsl(0, 0%, 100%); 
+    border-radius: 15px;  
+    margin: 40px;
+}
+.container2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.container img{
+    margin: 15px;
+    width: 90%;
+    border-radius: 8px;
+}
+.text1{
+    font-size: 25px;
+    text-align: left;
+    padding-left: 5px;
+    margin: 0;
+}
+.container3{
+    width: 90%;
+    font-size: 12px;
+    padding: 0px;
+    margin: 0px;
+}
+.container4{
+    background-color:  hsl(330, 100%, 98%);
+    width: 90%;
+    border-radius: 8px;
+    font-size: smaller;
+    text-align: left;
+    margin: 10px;
+}
+.text2{
+    font-weight: bolder;
+    margin: 0px;
+    padding: 5px;
+    font-size: 15px;
+    color: hsl(330, 93%, 17%);
+}
+.container4 ul{
+    margin: 0px;
+    padding-left: 30px;
+}
+.container4 ul li::marker{
+    color:hsl(14, 45%, 36%) ;
+    font-weight: bold;
+}
+.container5{
+    width: 90%;
+    border-radius: 8px;
+    font-size: smaller;
+    text-align: left;
+    margin: 10px;
+}
+.text3{
+    font-weight: bold;
+    font-size: 17px;
+    color: hsl(14, 45%, 36%);
+}
+.container5 p{
+    margin: 0px;
+}
+.container5 ul{
+    margin: 0px;
+    padding-left: 25px;
+}
+.container5 ul li::marker{
+    color:hsl(14, 45%, 36%);
+    font-weight: bold;
+}
+.container6{
+    width: 90%;
+    border-radius: 8px;
+    font-size: smaller;
+    text-align: left;
+    margin: 10px;
+}
+.text4{
+    font-weight: bold;
+    font-size: 20px;
+    color: hsl(14, 45%, 36%);
+}
+.container6 p{
+    margin: 0px;
+}
+.container6 ol {
+    margin: 0;
+    padding-left: 25px;
+}
+.container6 ol li::marker{
+    color:hsl(14, 45%, 36%) ;
+    font-weight: bold;
+}
+.container7{
+    width: 90%;
+    border-radius: 8px;
+    font-size: smaller;
+    text-align: left;
+    margin: 10px;
+    padding: 0px;
+}
+.text5{
+    font-weight: bold;
+    color: hsl(14, 45%, 36%);
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+.container7 p{
+    margin: 0px;
+}
+.container7 table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-collapse: collapse;
+    border-spacing: 10px;
+    width: 100%;
+}
+.container7 tr{
+    display: flex;
+    justify-content: space-around;
+    column-width: 100;
+    border-bottom: 1px solid black;
+    
+}
+
+
+
+   
