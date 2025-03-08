@@ -7,7 +7,6 @@ body{
     justify-content: center;
     background-color:  hsl(30, 54%, 90%);
     font-family:"Outfit", sans-serif;
-    height:100vh;
 }
 .container{
     width: 50%;
